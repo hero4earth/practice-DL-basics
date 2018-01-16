@@ -16,3 +16,8 @@ _ _ _
 ### MNIST Project
 - [CNN 숫자 인식 프로젝트 - 모델 저장하기](https://github.com/hero4earth/practice-DL-basics/blob/master/11_MNIST_CNN_Project_Save_Model.ipynb)
 - [CNN 숫자 인식 프로젝트 - 모델 불러오기 및 숫자 맞추기](https://github.com/hero4earth/practice-DL-basics/blob/master/12_MNIST_CNN_Project_Load_Model.ipynb)
+
+_ _ _
+### References
+- [모두의 딥러닝](https://www.youtube.com/watch?v=c62uTWdhhMw&feature=youtu.be)
+- [조대협의 블로그](http://bcho.tistory.com/1157?category=555440)
